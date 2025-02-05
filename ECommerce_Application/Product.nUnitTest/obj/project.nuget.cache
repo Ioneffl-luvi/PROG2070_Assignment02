@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9tWaWGntLIU=",
+  "dgSpecHash": "dgoBTcqkELA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\OneDrive - Conestoga College\\Desktop\\Conestoga\\Conestoga Semester 4\\Software Quality Assurance\\ECommerce_Application\\Product.nUnitTest\\Product.nUnitTest.csproj",
+  "projectFilePath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\Product.nUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

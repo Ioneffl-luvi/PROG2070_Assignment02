@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\OneDrive - Conestoga College\\Desktop\\Conestoga\\Conestoga Semester 4\\Software Quality Assurance\\ECommerce_Application\\ECommerce_Application\\ECommerce_Application.csproj",
+      "projectUniqueName": "C:\\Software_Quality_Assurance\\ECommerce_Application\\ECommerce_Application\\ECommerce_Application.csproj",
       "projectName": "ECommerce_Application",
-      "projectPath": "C:\\Users\\Owner\\OneDrive - Conestoga College\\Desktop\\Conestoga\\Conestoga Semester 4\\Software Quality Assurance\\ECommerce_Application\\ECommerce_Application\\ECommerce_Application.csproj",
+      "projectPath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\ECommerce_Application\\ECommerce_Application.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\OneDrive - Conestoga College\\Desktop\\Conestoga\\Conestoga Semester 4\\Software Quality Assurance\\ECommerce_Application\\ECommerce_Application\\obj\\",
+      "outputPath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\ECommerce_Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

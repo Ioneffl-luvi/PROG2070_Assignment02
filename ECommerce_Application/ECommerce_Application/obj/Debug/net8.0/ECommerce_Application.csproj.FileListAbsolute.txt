@@ -1,0 +1,15 @@
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\bin\Debug\net8.0\ECommerce_Application.exe
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\bin\Debug\net8.0\ECommerce_Application.deps.json
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\bin\Debug\net8.0\ECommerce_Application.runtimeconfig.json
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\bin\Debug\net8.0\ECommerce_Application.dll
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\bin\Debug\net8.0\ECommerce_Application.pdb
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.AssemblyInfoInputs.cache
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.AssemblyInfo.cs
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.csproj.CoreCompileInputs.cache
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.sourcelink.json
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.dll
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\refint\ECommerce_Application.dll
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.pdb
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ECommerce_Application.genruntimeconfig.cache
+C:\Software_Quality_Assurance\ECommerce_Application\ECommerce_Application\obj\Debug\net8.0\ref\ECommerce_Application.dll
