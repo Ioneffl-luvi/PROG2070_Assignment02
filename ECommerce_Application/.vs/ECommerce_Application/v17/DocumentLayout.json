@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C50CAC6-DB44-40E9-B86F-71033CCF73FF}|Product.nUnitTest\\ECommerceProduct.nUnitTest.csproj|c:\\software_quality_assurance\\ecommerce_application\\product.nunittest\\ecommerceapplicationproducttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C50CAC6-DB44-40E9-B86F-71033CCF73FF}|Product.nUnitTest\\ECommerceProduct.nUnitTest.csproj|solutionrelative:product.nunittest\\ecommerceapplicationproducttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C9A65-F2FD-405A-BB39-EBFF309AE857}|ECommerce_Application\\ECommerce_Application.csproj|c:\\software_quality_assurance\\ecommerce_application\\ecommerce_application\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C9A65-F2FD-405A-BB39-EBFF309AE857}|ECommerce_Application\\ECommerce_Application.csproj|solutionrelative:ecommerce_application\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Software_Quality_Assurance\\ECommerce_Application\\ECommerce_Application\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce_Application\\Product.cs",
+              "ToolTip": "C:\\Software_Quality_Assurance\\ECommerce_Application\\ECommerce_Application\\Product.cs",
+              "RelativeToolTip": "ECommerce_Application\\Product.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAowIwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:12:25.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECommerceApplicationProductTests.cs",
+              "DocumentMoniker": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\ECommerceApplicationProductTests.cs",
+              "RelativeDocumentMoniker": "Product.nUnitTest\\ECommerceApplicationProductTests.cs",
+              "ToolTip": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\ECommerceApplicationProductTests.cs",
+              "RelativeToolTip": "Product.nUnitTest\\ECommerceApplicationProductTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:46:55.227Z",
+              "EditorCaption": ""
             }
           ]
         },
