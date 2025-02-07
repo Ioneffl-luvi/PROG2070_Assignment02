@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce_Application", "ECommerce_Application\ECommerce_Application.csproj", "{016C9A65-F2FD-405A-BB39-EBFF309AE857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.nUnitTest", "Product.nUnitTest\Product.nUnitTest.csproj", "{8C50CAC6-DB44-40E9-B86F-71033CCF73FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceProduct.nUnitTest", "Product.nUnitTest\ECommerceProduct.nUnitTest.csproj", "{8C50CAC6-DB44-40E9-B86F-71033CCF73FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

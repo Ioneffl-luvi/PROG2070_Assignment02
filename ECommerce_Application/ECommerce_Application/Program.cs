@@ -1,4 +1,10 @@
-﻿using ECommerce_Application;
+﻿// Program to test product class
+// History:
+// Created by      : Lovepreet Singh
+//                  February 5, 2025.
+// Student number : #8960816
+
+using ECommerce_Application;
 
 internal class Program
 {
@@ -11,7 +17,7 @@ internal class Program
         string productName = Console.ReadLine();
 
         Console.Write("Enter Item Price: ");
-        decimal itemPrice = Convert.ToDecimal(Console.ReadLine());
+        int itemPrice = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Enter Stock Amount: ");
         int stockAmount = Convert.ToInt32(Console.ReadLine());

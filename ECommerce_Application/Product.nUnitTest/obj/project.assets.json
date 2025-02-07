@@ -1004,9 +1004,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\Product.nUnitTest.csproj",
-      "projectName": "Product.nUnitTest",
-      "projectPath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\Product.nUnitTest.csproj",
+      "projectUniqueName": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\ECommerceProduct.nUnitTest.csproj",
+      "projectName": "ECommerceProduct.nUnitTest",
+      "projectPath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\ECommerceProduct.nUnitTest.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
       "outputPath": "C:\\Software_Quality_Assurance\\ECommerce_Application\\Product.nUnitTest\\obj\\",
       "projectStyle": "PackageReference",
